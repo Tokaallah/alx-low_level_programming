@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * print_alphaber - prints alphabet
+ * main - Entry point
+ *
+ * Description: orinting alphabet
  *
  * Return: always 0;
  *
