@@ -1,29 +1,22 @@
 #include <stdio.h>
-
 /**
- * main - Entry point
+ * main - main function
  *
- * Return: always 0;
+ * Return: always 0
  */
-
 int main(void)
 {
-	int sum3 = 0, sum5 = 0;
-	int i;
+	int a;
+	int b = 0;
 
-	for (i = 0; i < 1024; i++)
+	for (a = 0; a < 1024; a++)
 	{
-
-		if (i % 3 == 0)
+		if (a % 3 == 0 || a % 5 == 0)
 		{
-			sum3 += i;
+			b += a;
 		}
 
-		if (i % 5 == 0)
-		{
-			sum5 += i;
-		}
 	}
-	printf("%d\n", sum3 + sum5);
+	printf("%d\n", b);
 	return (0);
 }
