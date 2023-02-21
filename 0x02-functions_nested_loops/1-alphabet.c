@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Description: orinting alphabet
+ * print_alphabet - print alphabet lowercase
  *
  * Return: always 0;
  *
