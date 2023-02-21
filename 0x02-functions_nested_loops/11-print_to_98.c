@@ -4,6 +4,8 @@
 /**
  * print_to_98 - print numbers to 98
  *
+ * @n: integer to make the count
+ *
  */
 
 void print_to_98(int n)
