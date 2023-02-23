@@ -1,11 +1,22 @@
 #include "main.h"
+
 /**
- * main - check the code
+ * more_numbers - print numbers 0 to 14
  *
- * Return: always 0
+ * Return: 0
  */
-int main(void)
+void more_numbers(void)
 {
-	more_numbers();
-	return (0);
+	int i, ch;
+
+	for (i = 0; i < 10; i++)
+	{
+		for (ch = 0; ch < 15; ch++)
+		{
+			if (ch >= 10)
+				putchar((ch / 10) + 48);
+			putchar((ch % 10) + 48);
+		}
+		putchar('\n');
+	}
 }
