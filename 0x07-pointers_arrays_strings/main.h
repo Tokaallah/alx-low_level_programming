@@ -62,4 +62,10 @@ void set_string(char **s, char *to);
  * @s: string to set to
  * @to: set to
  */
+int _putchar(char c);
+/**
+ * _putchar - writes the character c to std
+ * @c: parameter to compare
+ * Return: 1 or 0
+ */
 #endif
