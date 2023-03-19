@@ -1,8 +1,8 @@
 # ALXAfricaSchool-low_level_programming
-![alt text](https://pbs.twimg.com/media/FYLlk9cWYAAEORa.jpg "alx africa")
+<img src="https://cdnb.artstation.com/p/assets/images/images/059/712/361/large/josiah-ihiabeh-alxbyjosiartz.jpg?1676990846"  width="100" height="100">
 
 # Low Level Programming & Algorithms
-![alt text](file:///C:/Users/sofi/Desktop/130502152627-rubber-duck-in-hong-kong-1.jpg "CISFUN")
+![alt text](https://user-images.githubusercontent.com/54765267/226171865-bf6fe826-fec2-4f3a-95d9-ca8fa19c0ed8.jpg "CISFUN")
 
 # Introduction
 
